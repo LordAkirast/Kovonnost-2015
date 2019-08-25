@@ -1,6 +1,4 @@
-*.exe
-*.rxdata
-*.dll
+
 /Audio
 /Data
 /Graphics
